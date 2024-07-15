@@ -1,0 +1,70 @@
+
+
+.main{
+    width: 300px;
+    box-shadow: 5px 5px 15px grey;}
+    .main .top span{
+        background-color: blue;
+        color: white;
+       padding: 6px 12px;
+       border-top-right-radius: 15px;
+       border-bottom-right-radius: 15px;
+      
+
+    }
+
+
+    .main .images img{
+        width: 300px;
+        margin-top: 10px;
+       
+
+    }
+
+.main .info{
+    padding: 0px 10px;
+}
+
+    .main .info h3{
+        font-size: 16px;
+        color:#000;
+        font-family: sans-serif;
+    }
+    .main .info h3:hover{
+        color: blue;
+    }
+    .main .prices{
+        text-align: center;
+        
+    }
+    .main .prices .p-1{
+color: orangered;
+font-size: 20px;
+padding-right: 5px;
+    }
+    .main .prices .p-2{
+        text-decoration: line-through;
+            }
+
+            .main button{
+width: 100%;
+padding: 10px;
+margin-top: 10px;
+border: none;
+            }
+
+        .main .btn-1{
+       
+            color:blue;
+            border-radius: 5px;
+        }
+        .main .btn-1:hover{
+            background-color: blue;
+        color: white;
+        cursor: pointer;
+        }
+        .main .btn-2{
+            margin-bottom: 5px;
+            border-radius: 5px;
+        }
+            
